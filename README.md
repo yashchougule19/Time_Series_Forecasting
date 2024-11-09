@@ -8,7 +8,7 @@ I have implemented the algorithm to do rolling forecast with MLP regressor howev
 For this, I combined the train and test set  beforehand in excel to create their lag features. 
 The MLP regressor notebook is processed on this dataset.
 
-# Project Title: Stock Volume Predixtion (time series) using deep neural networks (RNN)
+# Stock Volume Prediction (time series) using deep neural networks (RNN)
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -24,7 +24,7 @@ The MLP regressor notebook is processed on this dataset.
 - [Contact Information](#contact-information)
 
 ## Project Description
-This project focuses on time series forecasting using Recurrent Neural Networks (RNNs) with an emphasis on [specific type of time series data, if applicable].
+This project focuses on time series forecasting using Recurrent Neural Networks (RNNs).
 
 ## Project Structure
 ...
