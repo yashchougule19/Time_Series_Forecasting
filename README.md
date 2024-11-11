@@ -46,5 +46,5 @@ The train dataset has 2103 samples and is divided such that train : validation =
 
 <p align="center">
   <img src="LSTM_Loss_plot.png" alt="Image 1" width="700" height="500" hspace="10"/>
-  <img src="LSTM_validation_fit.png" alt="Image 2" width="800" height="500" hspace="10"/>
+  <img src="LSTM_validation_fit.png" alt="Image 2" width="700" height="500" hspace="10"/>
 </p>
