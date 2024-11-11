@@ -44,5 +44,5 @@ Although I have tried my best to avoid overfitting by reducing the model complex
 
 <p align="center">
   <img src="GRU_Loss_plot.png" alt="Image 1" width="700" height="500" hspace="10"/>
-  <img src="LSTM_validation_fit.png" alt="Image 2" width="700" height="500" hspace="10"/>
+  <img src="GRU_validation_fit.png" alt="Image 2" width="700" height="500" hspace="10"/>
 </p>
