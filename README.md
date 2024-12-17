@@ -37,7 +37,7 @@ The train dataset has 2103 samples and is divided such that train : validation =
 - In this exercise, GRU(64) performed better on validation set compared to LSTM(64).  
 Although I have tried my best to avoid overfitting by reducing the model complexity and introducing L2 penalty, the overfitting possibility cannot be totally ruled out since the dataset is very small.
 
-- At this point, for the same configuration, MSE on validation for GRU is 0.88 whereas for GRU is 2.9
+- At this point, for the same configuration, MSE on validation for GRU is 0.88 whereas for LSTM is 2.9
 
 - The plots help to visualizing the GRU predictions.
 
